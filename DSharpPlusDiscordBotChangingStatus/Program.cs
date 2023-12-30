@@ -1,9 +1,9 @@
-﻿using DSharpPlus;
-using DSharpPlus.Entities;
 using System;
-using System.Collections.Generic;
+using DSharpPlus;
 using System.Threading;
+using DSharpPlus.Entities;
 using System.Threading.Tasks;
+using System.Collections.Generic;
 
 namespace DSharpPlusDiscordBotChangingStatus
 {
